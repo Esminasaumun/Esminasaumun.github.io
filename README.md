@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8">
-        <title>Project: Travel webpage</title>
         <style>
         h1{background-color:green;}
         #awesome {color:blue;}
