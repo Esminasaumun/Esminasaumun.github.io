@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <style>
-        h1{background-color:green;}
-        #awesome {color:blue;}
-        </style>
     </head>
     <body>
     <h1>Travel to Hawaii</h1>
